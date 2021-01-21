@@ -407,6 +407,7 @@ GameObject:
   - component: {fileID: 1423117064}
   - component: {fileID: 1423117066}
   - component: {fileID: 1423117065}
+  - component: {fileID: 1423117067}
   m_Layer: 0
   m_Name: Tilemap
   m_TagString: Untagged
@@ -2594,3 +2595,36 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!68 &1423117067
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423117063}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -9.709256, y: -4.7658505}
+  - {x: -9.996884, y: -4.011782}
+  - {x: -10.00616, y: 3.999055}
+  - {x: -9.714797, y: 4.64301}
+  - {x: -9.0058775, y: 4.9972873}
+  - {x: 9.010402, y: 5.0036993}
+  - {x: 9.816077, y: 4.747398}
+  - {x: 10.0116, y: 3.9739792}
+  - {x: 10.009106, y: -3.9944725}
+  - {x: 9.741446, y: -4.734577}
+  - {x: 9.000373, y: -4.9965334}
+  - {x: -9.009827, y: -4.9974685}
+  - {x: -9.710686, y: -4.7547126}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
