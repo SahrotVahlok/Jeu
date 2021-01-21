@@ -176,7 +176,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 11.808388
+  orthographic size: 6.332203
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -264,7 +264,7 @@ GameObject:
   - component: {fileID: 1232265575}
   - component: {fileID: 1232265574}
   m_Layer: 0
-  m_Name: jvalier
+  m_Name: Messire Jvalier
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
